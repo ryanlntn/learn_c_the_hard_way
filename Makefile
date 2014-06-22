@@ -8,5 +8,6 @@ all:
 	cc ex5.c -o ./out/ex5
 	cc ex6.c -o ./out/ex6
 	cc ex7.c -o ./out/ex7
+	cc ex8.c -o ./out/ex8
 clean:
 	rm -f ./out/*
