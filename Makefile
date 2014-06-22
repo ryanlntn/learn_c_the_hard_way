@@ -6,5 +6,6 @@ all:
 	cc ex3.c -o ./out/ex3
 	cc ec4.c -o ./out/ec4
 	cc ex5.c -o ./out/ex5
+	cc ex6.c -o ./out/ex6
 clean:
 	rm -f ./out/*
